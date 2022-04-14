@@ -24,3 +24,7 @@ html {
       width: 170px;
       height: auto;
   }
+
+  .hide{
+      display: none;
+  }
